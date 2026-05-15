@@ -105,15 +105,6 @@ CALCULATE(
 
 ---
 
-## 📁 Files in This Repo
-
-| File | Description |
-|---|---|
-| `SUPER STORE DASHBOARD.pbix` | Power BI dashboard file |
-| `README.md` | Project documentation (this file) |
-
----
-
 ## 🔗 Back to Portfolio
 
 [← View all projects](https://github.com/aashimasanduja72234-spec/Data-Analytics-portfolio)
